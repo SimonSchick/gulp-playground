@@ -1,0 +1,36 @@
+{
+  "name": "frontend-test",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-concat": "^2.5.2",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-imagemin": "^2.3.0",
+    "gulp-less": "^3.0.3",
+    "gulp-load-plugins": "^1.0.0-rc.1",
+    "gulp-open": "^0.3.2",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "less-plugin-autoprefix": "^1.4.2",
+    "less-plugin-clean-css": "^1.5.0",
+    "q": "^1.4.1",
+    "run-sequence": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SimonSchick/gulp-playground.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SimonSchick/gulp-playground/issues"
+  }
+}
